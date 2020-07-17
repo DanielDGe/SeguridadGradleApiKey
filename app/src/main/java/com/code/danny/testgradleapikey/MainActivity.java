@@ -7,9 +7,10 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
-    /*Gradle API Key
+    /*Seguridad Android Studio - No Subir a GitHub tus API KEY y otras Claves.
+    * Gradle API Key
     * Nos soluciona el problema de subir las claves a repositoriso publicos
-    * como github, a traves de las propiedas se le especifica no cargarles.
+    * como github, a traves de las propiedades se le especifica no cargarles.
     * Eso ofrece en seguridad.
     *
     * Lo que no ofrece es que cuando subas tu apk a la playstore, algun hacker
